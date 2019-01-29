@@ -1,0 +1,18 @@
+h4 {
+    color: hotpink;
+}
+body {
+    background: #FFEBCD ; color: darkturquoise
+}
+ul{
+    list-style: none;
+}
+h3{
+    color:coral;
+}
+h5{
+    color:orange
+}
+.profpic{
+    border-radius: 50%;
+}
